@@ -1,4 +1,4 @@
-# ai-terminal
+# AI-Terminal
 AI Powered Terminal (Powershell)
 
 ### YouTube Tutorial
