@@ -1,9 +1,9 @@
-# AI-Terminal
+# AI-Terminal 📟
 AI Powered Terminal (Powershell)
 
 ### YouTube Tutorial
 
-### Setup
+### Setup </>
 1. git clone https://github.com/AllAboutAI-YT/ai-terminal.git
 2. open folder with files
 3. place files in correct folder (see tutorial)
@@ -19,4 +19,4 @@ AI Powered Terminal (Powershell)
     - use ctrl+space to shuffle suggestions
     - use ctrl+enter to ask openai about command
    
-  
+### ⭐ Give a star if you like it ⭐  
