@@ -8,4 +8,5 @@ AI Powered Terminal (Powershell)
 2. open folder with files
 3. place files in correct folder (see tutorial)
 4. set $modulePath to your ps module in profile
-5. set API in 
+5. set APIKEY in MyModule.psm1
+6. 
