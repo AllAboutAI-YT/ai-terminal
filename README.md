@@ -9,4 +9,14 @@ AI Powered Terminal (Powershell)
 3. place files in correct folder (see tutorial)
 4. set $modulePath to your ps module in profile
 5. set APIKEY in MyModule.psm1
-6. 
+6. open terminal
+7. Install-Module -Name PSOpenAI
+8. Install-Module -Name PSReadLine
+9. restart terminal
+10. commands:
+    - use Ask-OpenAI "your question?"
+    - use TAB to autocomplete inline suggestions
+    - use ctrl+space to shuffle suggestions
+    - use ctrl+enter to ask openai about command
+   
+  
