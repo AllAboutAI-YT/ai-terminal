@@ -5,9 +5,6 @@ Import-Module $modulePath
 Import-Module -Name PSReadLine
 Import-Module -Name PSOpenAI
 
-# Set OpenAI API Key (redundant if already set in the module, safe to keep or remove)
-$env:OPENAI_API_KEY = "APIKEY"
-
 # Custom prompt function to enhance the command line interface
 function Prompt {
     Write-Host "(base) PS $($executionContext.SessionState.Path.CurrentLocation)$('>' * ($nestedPromptLevel + 1)) " -NoNewline
@@ -33,5 +30,3 @@ Set-PSReadLineKeyHandler -Chord Ctrl+Enter -ScriptBlock {
     [Microsoft.PowerShell.PSConsoleReadLine]::GetBufferState([ref]$line, [ref]$cursor)
     Process-CommandWithOpenAI -command $line
 }
-
-# Additional customizations or plugin loads can be added below this line
