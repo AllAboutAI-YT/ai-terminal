@@ -23,5 +23,8 @@ AI Powered Terminal (Powershell)
 ### Conda
 you might need to update the profile to use conda
 
+### Links
+https://github.com/mkht/PSOpenAI
+
 ### Disclaimer
 use on your own risk ofc, dont share personal data with openai etc. this is not sec tested
