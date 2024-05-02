@@ -2,6 +2,7 @@
 AI Powered Terminal (Powershell)
 
 ### YouTube Tutorial
+https://youtu.be/ju8hdBaNDpI
 
 ### Setup </>
 1. git clone https://github.com/AllAboutAI-YT/ai-terminal.git
