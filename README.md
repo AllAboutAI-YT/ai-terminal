@@ -18,7 +18,10 @@ AI Powered Terminal (Powershell)
     - use TAB to autocomplete inline suggestions
     - use ctrl+space to shuffle suggestions
     - use ctrl+enter to ask openai about command
+### ⭐ Give a star if you like it ⭐ 
 
 ### Conda
-- You might need to update the profile to use conda
-### ⭐ Give a star if you like it ⭐  
+you might need to update the profile to use conda
+
+### Disclaimer
+use on your own risk ofc, dont share personal data with openai etc. this is not sec tested
